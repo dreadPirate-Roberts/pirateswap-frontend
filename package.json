@@ -1,7 +1,7 @@
 {
-  "name": "@apeswap/interface",
+  "name": "@pirateswap/interface",
   "version": "0.1.1",
-  "description": "Apeswap Interface",
+  "description": "Pirateswap Interface",
   "homepage": ".",
   "private": true,
   "scripts": {

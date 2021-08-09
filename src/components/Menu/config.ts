@@ -9,7 +9,7 @@ const config: MenuEntry[] = [
     href: BASE_APP_URL,
   },
   {
-    label: 'Ape Stats',
+    label: 'Pirate Stats',
     icon: 'StatsIcon',
     href: `${BASE_APP_URL}/stats`,
   },
@@ -49,7 +49,7 @@ const config: MenuEntry[] = [
     href: `${BASE_APP_URL}/nft`,
   },
   {
-    label: 'ApeZone',
+    label: 'PirateZone',
     icon: 'ApeZone',
     href: `${BASE_APP_URL}/apezone`,
   },
@@ -59,24 +59,24 @@ const config: MenuEntry[] = [
   //   href: `${BASE_APP_URL}/lottery`,
   // },
   {
-    label: 'Info',
+    label: 'Pirate Info',
     icon: 'InfoIcon',
     items: [
       {
         label: 'Overview',
-        href: 'https://info.apeswap.finance',
+        href: 'https://info.pirateswap.org',
       },
       {
         label: 'Tokens',
-        href: 'https://info.apeswap.finance/tokens',
+        href: 'https://info.pirateswap.org/tokens',
       },
       {
         label: 'Pairs',
-        href: 'https://info.apeswap.finance/pairs',
+        href: 'https://info.pirateswap.org/pairs',
       },
       {
         label: 'Accounts',
-        href: 'https://info.apeswap.finance/accounts',
+        href: 'https://info.pirateswap.org/accounts',
       },
     ],
   },
@@ -86,36 +86,36 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Github',
-        href: 'https://github.com/apeswapfinance',
+        href: 'https://github.com/dreadPirate-Roberts',
       },
       {
         label: 'Docs',
-        href: 'https://apeswap.gitbook.io/apeswap-finance',
+        href: 'https://docs.pirateswap.org',
       },
       {
         label: 'Blog',
-        href: 'https://ape-swap.medium.com',
+        href: 'https://pirateswap.medium.com',
       },
       {
         label: 'Team',
-        href: 'https://ape-swap.medium.com/meet-the-founding-monkeys-behind-apeswap-6f837113db00',
+        href: 'https://medium.com/@dreadroberts268/meet-the-founding-pirates-behind-pirateswap-46f4df93e958',
       },
       {
         label: 'Community Feedback',
-        href: 'https://apeswap.nolt.io/',
+        href: 'https://discourse.pirateswap.org/',
       },
       {
-        label: 'ApeTV',
-        href: 'https://anchor.fm/apetv',
+        label: 'PirateTV',
+        href: 'https://anchor.fm/piratetv',
       },
       {
         label: 'Bug Bounty Program',
-        href: 'https://apeswap.gitbook.io/apeswap-finance/security/bug-bounty-program',
+        href: 'https://pirateswap.gitbook.io/dreadPirate-Roberts/security/bug-bounty-program',
       },
       {
         label: 'GEMZ Audit Report',
         href:
-          'https://github.com/ApeSwapFinance/apeswap-banana-farm/blob/master/audits/ApeSwap_GEMZ_Audit_Report_21.03.05.pdf',
+          'https://github.com/dreadPirate-Roberts/pirateswap-letters-of-marquee/blob/master/audits/PirateSwap_GEMZ_Audit_Report_21.08.05.pdf',
       },
     ],
   },
